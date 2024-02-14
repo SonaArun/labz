@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "328345407107",
+    "project_id": "labz-b88df",
+    "storage_bucket": "labz-b88df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328345407107:android:1e668c5ad9ef7baf0a15b6",
+        "android_client_info": {
+          "package_name": "com.example.labz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrO1XCsUGPFNCp22u4-aBz0YNczZ1Qodg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
